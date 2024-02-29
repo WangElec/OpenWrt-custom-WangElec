@@ -20,7 +20,7 @@ env:
 
 jobs:
   Build:
-    runs-on: dfiilla-virtual-machine
+    runs-on: self-hosted
 
     steps:
     - name: Check Server Performance
